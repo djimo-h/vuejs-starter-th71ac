@@ -4,7 +4,7 @@ var app = new Vue({
   el: "#app",
   data: {
     product: "Socks",
-    image: "./assets/vmSocks-green.jpg",
+    //image: "./assets/vmSocks-green.jpg",
     inStock: true,
     inventory: 100,
 
@@ -15,7 +15,7 @@ var app = new Vue({
     {
       variantId: 2234,
       variantColor: "green",
-      varianImage: "./assets/vmSocks-green.jpg"    
+      varianImage: "./assets/vmSocks-green.jpg"
     },
     {
       variantId: 2235,
