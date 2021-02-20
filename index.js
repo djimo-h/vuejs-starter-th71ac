@@ -15,7 +15,7 @@ var app = new Vue({
     {
       variantId: 2234,
       variantColor: "green",
-      varianImage: "./assets/vmSocks-green.jpg"
+      varianImage: "./assets/vmSocks-green.jpg"    
     },
     {
       variantId: 2235,
